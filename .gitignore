@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/nuscenes/
+data/raw/
+data/processed/
+
+# Large model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.tar.gz
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+*.log

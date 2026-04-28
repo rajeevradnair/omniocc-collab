@@ -1,0 +1,11 @@
+point_id,x,y,z,description
+1,2.0,0.0,0.0,point directly in front of ego vehicle
+2,4.0,1.0,0.0,point front-right
+3,4.0,-1.0,0.0,point front-left
+4,6.0,0.0,0.0,farther point in front
+5,8.0,2.0,0.0,far front-right point
+6,8.0,-2.0,0.0,far front-left point
+7,3.0,0.5,1.0,elevated point near front-right
+8,3.0,-0.5,1.0,elevated point near front-left
+9,5.0,0.0,1.5,tall object point
+10,10.0,0.0,0.0,distant point
