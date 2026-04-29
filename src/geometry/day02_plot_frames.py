@@ -55,7 +55,7 @@ def main() -> None:
     plt.arrow(0, 0, 0, 2, head_width=0.2, length_includes_head=True)
     plt.text(0.1, 2.2, "+y left")
 
-    plt.title("Week 1 Day 2: Sensor Frame to Ego Frame")
+    plt.title("Sensor Frame to Ego Frame")
     plt.xlabel("x: forward/backward meters")
     plt.ylabel("y: left/right meters")
     plt.grid(True)
